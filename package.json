@@ -28,10 +28,10 @@
     "axios-debug-log": "^1.0.0",
     "cli-color": "^2.0.4",
     "commander": "^12.1.0",
-    "convert-svg-to-png": "^0.6.4",
+    "convert-svg-to-png": "^0.7.1",
     "debug": "^4.4.1",
     "diff-match-patch": "^1.0.5",
-    "ethers": "^5.8.0",
+    "ethers": "^6.17.0",
     "js-graph-algorithms": "^1.0.18",
     "klaw": "^4.1.0"
   },
